@@ -1,7 +1,8 @@
 node_modules
 .idea
-dist
+# dist PREBUILD
 tests/_tmp_
+tests/.__tmp
 .npm
 .versions
 npm-debug*
